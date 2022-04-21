@@ -1,1 +1,1 @@
-https://github.com/diemontoto/p5/index.html
+https://diemontoto.github.io/p5
